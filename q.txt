@@ -1,0 +1,41 @@
+What nation was bounced from the Organisation of American States in 1962?
+Texas.*False
+Cuba.*True
+Florida.*False
+Arizona.*False
+
+What continent has the fewest flowering plants?
+Europe.*False
+Australia.*False
+Africa.*False
+Antartica.*True
+
+What country saw a world record 315 milion voters out for elections on May 20, 1991?
+China.*False
+Russia.*False
+USA.*False
+India.*True
+
+What was the first planet to be discovered using the telescope, in 1781?
+Uranus.*True
+Pluto.*False
+Jupiter.*False
+Europa.*False
+
+How many days does a cat usually stay in heat?
+Four.*False
+Eleven.*False
+Five.*True
+Seven.*False
+
+How many U.S. states border the Gulf of Mexico?
+Four.*False
+Six.*False
+Three.*False
+Five.*True
+
+What did blind bank robber David Worrell use as a weapon when trying to rob a London bank?
+His handgun.*False
+His cane.*True
+His hand.*False
+His phone.*False
